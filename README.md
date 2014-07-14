@@ -1,3 +1,5 @@
+**Note: This project has been forked to 1) refactor the source to use a namespace `BG` and 2) setup a local podspec.**
+
 iOSPullDownMenu
 ===============
 
